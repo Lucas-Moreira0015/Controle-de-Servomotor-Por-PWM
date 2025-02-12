@@ -35,4 +35,7 @@ Além disso, um LED RGB (conectado à GPIO 12) é controlado junto com o servomo
 ## Autor
 **Lucas Moreira da Silva**
 
+## Autor
+**https://youtu.be/cqbBJaadTuU**
+
 Este projeto foi desenvolvido e testado utilizando a **BitDogLab** com o microcontrolador **RP2040**.
